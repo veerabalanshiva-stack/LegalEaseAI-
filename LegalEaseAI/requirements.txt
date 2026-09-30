@@ -10,3 +10,15 @@ reportlab>=4.4,<5
 Pillow>=11,<12
 pytest>=8.4,<9
 httpx>=0.28,<1
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+pydantic
+google-genai
+python-docx
+reportlab
+Pillow
+pytest
+httpx
